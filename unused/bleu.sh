@@ -1,0 +1,1 @@
+sacrebleu -l zh-en -lc -i extract.txt -b /home/data_ti5_c/shicm/data/nist_zh-en_1.34m/test/mt03.ref0 /home/data_ti5_c/shicm/data/nist_zh-en_1.34m/test/mt03.ref1 /home/data_ti5_c/shicm/data/nist_zh-en_1.34m/test/mt03.ref2 /home/data_ti5_c/shicm/data/nist_zh-en_1.34m/test/mt03.ref3
